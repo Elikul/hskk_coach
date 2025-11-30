@@ -1,0 +1,8 @@
+.venv
+venv
+dataset
+experiments/data
+models
+processed
+__pycache__
+temp
