@@ -1,8 +1,12 @@
 fastapi
 uvicorn
-torch==2.8.0
-numpy
-soundfile
+funasr
 pypinyin
+pyworld
 librosa
+matplotlib
+numpy
+scipy
+torch==2.8.0
+torchaudio==2.8.0
 python-multipart
