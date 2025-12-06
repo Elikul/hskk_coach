@@ -2,7 +2,6 @@ fastapi
 uvicorn
 funasr
 pypinyin
-pyworld
 librosa
 matplotlib
 numpy
@@ -10,3 +9,8 @@ scipy
 torch==2.8.0
 torchaudio==2.8.0
 python-multipart
+pyworld>=0.3.0
+soundfile>=0.12.0
+speechrecognition==3.10.0
+pandas
+ffmpeg==1.4
